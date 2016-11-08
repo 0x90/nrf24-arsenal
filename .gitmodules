@@ -106,3 +106,6 @@
 [submodule "NRF24-BTLE-Decoder"]
 	path = NRF24-BTLE-Decoder
 	url = https://github.com/omriiluz/NRF24-BTLE-Decoder
+[submodule "nrf24l01_fpga"]
+	path = nrf24l01_fpga
+	url = https://github.com/jakubcabal/nrf24l01_fpga
