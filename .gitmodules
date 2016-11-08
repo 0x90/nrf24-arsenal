@@ -1,0 +1,108 @@
+[submodule "keyjack"]
+	path = keyjack
+	url = https://github.com/BastilleResearch/keyjack
+[submodule "jackit"]
+	path = jackit
+	url = https://github.com/insecurityofthings/jackit
+[submodule "droneGestures"]
+	path = droneGestures
+	url = https://github.com/MrJack91/droneGestures
+[submodule "mousejack"]
+	path = mousejack
+	url = https://github.com/BastilleResearch/mousejack
+[submodule "gr-nordic"]
+	path = gr-nordic
+	url = https://github.com/BastilleResearch/gr-nordic
+[submodule "keysniffer"]
+	path = keysniffer
+	url = https://github.com/BastilleResearch/keysniffer
+[submodule "nrf-research-firmware"]
+	path = nrf-research-firmware
+	url = https://github.com/BastilleResearch/nrf-research-firmware
+[submodule "nrf24_multipro"]
+	path = nrf24_multipro
+	url = https://github.com/goebish/nrf24_multipro
+[submodule "raspjack"]
+	path = raspjack
+	url = https://github.com/DigitalSecurity/raspjack
+[submodule "NRF24_Sniffer"]
+	path = NRF24_Sniffer
+	url = https://github.com/Yveaux/NRF24_Sniffer
+[submodule "keysweeper"]
+	path = keysweeper
+	url = https://github.com/samyk/keysweeper
+[submodule "microsoft_keyboard_decoder"]
+	path = microsoft_keyboard_decoder
+	url = https://github.com/chopengauer/microsoft_keyboard_decoder
+[submodule "lib_nrf24"]
+	path = lib_nrf24
+	url = https://github.com/BLavery/lib_nrf24
+[submodule "RF24toTUN"]
+	path = RF24toTUN
+	url = https://github.com/reixd/RF24toTUN
+[submodule "pynrf24"]
+	path = pynrf24
+	url = https://github.com/jpbarraca/pynrf24
+[submodule "nRF24L01-buspirate"]
+	path = nRF24L01-buspirate
+	url = https://github.com/kevinmehall/nRF24L01-buspirate
+[submodule "NRF24L01"]
+	path = NRF24L01
+	url = https://github.com/leonahi/NRF24L01
+[submodule "nRF24L01p"]
+	path = nRF24L01p
+	url = https://github.com/doihaveto/nRF24L01p
+[submodule "crazyradio-firmware"]
+	path = crazyradio-firmware
+	url = https://github.com/bitcraze/crazyradio-firmware
+[submodule "crazyflie-lib-python"]
+	path = crazyflie-lib-python
+	url = https://github.com/bitcraze/crazyflie-lib-python
+[submodule "libcrazyradio"]
+	path = libcrazyradio
+	url = https://github.com/rpedde/libcrazyradio
+[submodule "pyRadioHeadNRF24"]
+	path = pyRadioHeadNRF24
+	url = https://github.com/exmorse/pyRadioHeadNRF24
+[submodule "UHF-digital-wireless-microphone"]
+	path = UHF-digital-wireless-microphone
+	url = https://github.com/benbiles/UHF-digital-wireless-microphone
+[submodule "Si4463"]
+	path = Si4463
+	url = https://github.com/dasm78/Si4463
+[submodule "TagNet"]
+	path = TagNet
+	url = https://github.com/danome/TagNet
+[submodule "remote-srv"]
+	path = remote-srv
+	url = https://github.com/ekundo/remote-srv
+[submodule "gamecube-rf24-remote"]
+	path = gamecube-rf24-remote
+	url = https://github.com/brNX/gamecube-rf24-remote
+[submodule "nrf24l01-rc"]
+	path = nrf24l01-rc
+	url = https://github.com/laneboysrc/nrf24l01-rc
+[submodule "RF24Audio"]
+	path = RF24Audio
+	url = https://github.com/TMRh20/RF24Audio
+[submodule "RF24Network"]
+	path = RF24Network
+	url = https://github.com/maniacbug/RF24Network
+[submodule "pynrf24-last"]
+	path = pynrf24-last
+	url = https://github.com/jpbarraca/pynrf24
+[submodule "NRF24L01P_rc_car"]
+	path = NRF24L01P_rc_car
+	url = https://github.com/armsp/NRF24L01P_rc_car
+[submodule "nrf2rfm69"]
+	path = nrf2rfm69
+	url = https://github.com/tbowmo/nrf2rfm69
+[submodule "RF_light_remote"]
+	path = RF_light_remote
+	url = https://github.com/xusik/RF_light_remote
+[submodule "nRF24_BLE"]
+	path = nRF24_BLE
+	url = https://github.com/lijunhw/nRF24_BLE
+[submodule "NRF24-BTLE-Decoder"]
+	path = NRF24-BTLE-Decoder
+	url = https://github.com/omriiluz/NRF24-BTLE-Decoder
