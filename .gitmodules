@@ -109,3 +109,102 @@
 [submodule "nrf24l01_fpga"]
 	path = nrf24l01_fpga
 	url = https://github.com/jakubcabal/nrf24l01_fpga
+[submodule "nrf24le1-libbcm2835"]
+	path = nrf24le1-libbcm2835
+	url = https://github.com/derekstavis/nrf24le1-libbcm2835
+[submodule "buspirate_nrf24lu1p"]
+	path = buspirate_nrf24lu1p
+	url = https://github.com/koolatron/buspirate_nrf24lu1p
+[submodule "usbCrazyRadio"]
+	path = usbCrazyRadio
+	url = https://github.com/erwincoumans/usbCrazyRadio
+[submodule "nrfburn"]
+	path = nrfburn
+	url = https://github.com/nodep/nrfburn
+[submodule "nRF24LU1P_SPI_Flashing"]
+	path = nRF24LU1P_SPI_Flashing
+	url = https://github.com/RGassmann/nRF24LU1P_SPI_Flashing
+[submodule "nrf24lu1p-uHID-bootloader"]
+	path = nrf24lu1p-uHID-bootloader
+	url = https://github.com/nekromant/nrf24lu1p-uHID-bootloader
+[submodule "nrf24lu1p-512-bootloader"]
+	path = nrf24lu1p-512-bootloader
+	url = https://github.com/ahtn/nrf24lu1p-512-bootloader
+[submodule "nrf24lu1p-snifferdemo"]
+	path = nrf24lu1p-snifferdemo
+	url = https://github.com/NordicSemiconductor/nrf24lu1p-snifferdemo
+[submodule "mousejack_transmit"]
+	path = mousejack_transmit
+	url = https://github.com/iamckn/mousejack_transmit
+[submodule "mith-ren"]
+	path = mith-ren
+	url = https://github.com/wolfmd/mith-ren
+[submodule "Eco_AccBabyMonitor"]
+	path = Eco_AccBabyMonitor
+	url = https://github.com/EPLab/Eco_AccBabyMonitor
+[submodule "Programmer_nRF24LXX"]
+	path = Programmer_nRF24LXX
+	url = https://github.com/elechouse/Programmer_nRF24LXX
+[submodule "clicker"]
+	path = clicker
+	url = https://github.com/jabelch/clicker
+[submodule "Windows.Devices.Radios.nRF24L01P"]
+	path = Windows.Devices.Radios.nRF24L01P
+	url = https://github.com/RodneyWimberly/Windows.Devices.Radios.nRF24L01P
+[submodule "NRF24L01-PA-LNA-Testing-Scripts"]
+	path = NRF24L01-PA-LNA-Testing-Scripts
+	url = https://github.com/moggiex/NRF24L01-PA-LNA-Testing-Scripts
+[submodule "rf24boot"]
+	path = rf24boot
+	url = https://github.com/nekromant/rf24boot
+[submodule "nrfprog"]
+	path = nrfprog
+	url = https://github.com/nekromant/nrfprog
+[submodule "RF24"]
+	path = RF24
+	url = https://github.com/tmrh20/RF24
+[submodule "RF24Mesh"]
+	path = RF24Mesh
+	url = https://github.com/TMRh20/RF24Mesh
+[submodule "RF24Gateway"]
+	path = RF24Gateway
+	url = https://github.com/TMRh20/RF24Gateway
+[submodule "RF24EthernetLite"]
+	path = RF24EthernetLite
+	url = https://github.com/TMRh20/RF24EthernetLite
+[submodule "drone-duel"]
+	path = drone-duel
+	url = https://github.com/marcnewlin/drone-duel
+[submodule "knot-hal-source"]
+	path = knot-hal-source
+	url = https://github.com/CESARBR/knot-hal-source
+[submodule "nrfdude"]
+	path = nrfdude
+	url = https://github.com/twilly/nrfdude
+[submodule "Transceiver_Breakout-nRF24LU1_RP-SMA"]
+	path = Transceiver_Breakout-nRF24LU1_RP-SMA
+	url = https://github.com/sparkfun/Transceiver_Breakout-nRF24LU1_RP-SMA
+[submodule "NRF24L01-Linux-device-driver"]
+	path = NRF24L01-Linux-device-driver
+	url = https://github.com/npatel33/NRF24L01-Linux-device-driver
+[submodule "NRF24L01-I2C-Interface"]
+	path = NRF24L01-I2C-Interface
+	url = https://github.com/5shekel/NRF24L01-I2C-Interface
+[submodule "nrf24hid"]
+	path = nrf24hid
+	url = https://github.com/martin2250/nrf24hid
+[submodule "wht"]
+	path = wht
+	url = https://github.com/nodep/wht
+[submodule "NRF24LU1prog"]
+	path = NRF24LU1prog
+	url = https://github.com/FMMT666/NRF24LU1prog
+[submodule "nrf24l01-"]
+	path = nrf24l01-
+	url = https://github.com/VikramPinto/nrf24l01-
+[submodule "nrf24l01"]
+	path = nrf24l01
+	url = https://github.com/melomaa/nrf24l01
+[submodule "nrf24-arduino"]
+	path = nrf24-arduino
+	url = https://github.com/cogiceo/nrf24-arduino
