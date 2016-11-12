@@ -208,3 +208,9 @@
 [submodule "nrf24-arduino"]
 	path = nrf24-arduino
 	url = https://github.com/cogiceo/nrf24-arduino
+[submodule "FTDI_nRF24L01"]
+	path = FTDI_nRF24L01
+	url = https://github.com/g-gabber/FTDI_nRF24L01
+[submodule "RF24-OdroidC1"]
+	path = RF24-OdroidC1
+	url = https://github.com/ilhamadun/RF24-OdroidC1
