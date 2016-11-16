@@ -214,3 +214,12 @@
 [submodule "RF24-OdroidC1"]
 	path = RF24-OdroidC1
 	url = https://github.com/ilhamadun/RF24-OdroidC1
+[submodule "nrf24le1_Programmer"]
+	path = nrf24le1_Programmer
+	url = https://github.com/berkutta/nrf24le1_Programmer
+[submodule "nRF24LE1-flasher"]
+	path = nRF24LE1-flasher
+	url = https://github.com/AndruPol/nRF24LE1-flasher
+[submodule "python-nrf24"]
+	path = python-nrf24
+	url = https://github.com/r3ek0/python-nrf24
