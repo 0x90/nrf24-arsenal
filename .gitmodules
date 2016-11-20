@@ -229,3 +229,9 @@
 [submodule "rftoy-hw"]
 	path = rftoy-hw
 	url = https://github.com/rayshobby/rftoy-hw
+[submodule "attiny-nRF24L01"]
+	path = attiny-nRF24L01
+	url = https://github.com/stanleyseow/attiny-nRF24L01
+[submodule "arduino-nrf24l01"]
+	path = arduino-nrf24l01
+	url = https://github.com/stanleyseow/arduino-nrf24l01
