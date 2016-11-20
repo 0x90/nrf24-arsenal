@@ -235,3 +235,30 @@
 [submodule "arduino-nrf24l01"]
 	path = arduino-nrf24l01
 	url = https://github.com/stanleyseow/arduino-nrf24l01
+[submodule "uC_mousejack"]
+	path = uC_mousejack
+	url = https://github.com/phikshun/uC_mousejack
+[submodule "Win-MouseJack"]
+	path = Win-MouseJack
+	url = https://github.com/mo10/Win-MouseJack
+[submodule "Mousejack-dump-replay"]
+	path = Mousejack-dump-replay
+	url = https://github.com/mo10/Mousejack-dump-replay
+[submodule "ppm2crazyflie"]
+	path = ppm2crazyflie
+	url = https://github.com/alibenpeng/ppm2crazyflie
+[submodule "nrf24scannerPi"]
+	path = nrf24scannerPi
+	url = https://github.com/riyas-org/nrf24scannerPi
+[submodule "NRF24ArduinoPi"]
+	path = NRF24ArduinoPi
+	url = https://github.com/thesidjway/NRF24ArduinoPi
+[submodule "raspi-RF24"]
+	path = raspi-RF24
+	url = https://github.com/miguelalonso/raspi-RF24
+[submodule "avr-nrf24l01"]
+	path = avr-nrf24l01
+	url = https://github.com/antoineleclair/avr-nrf24l01
+[submodule "v202-receiver"]
+	path = v202-receiver
+	url = https://github.com/execuc/v202-receiver
