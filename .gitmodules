@@ -223,3 +223,9 @@
 [submodule "python-nrf24"]
 	path = python-nrf24
 	url = https://github.com/r3ek0/python-nrf24
+[submodule "RFToy"]
+	path = RFToy
+	url = https://github.com/rayshobby/RFToy
+[submodule "rftoy-hw"]
+	path = rftoy-hw
+	url = https://github.com/rayshobby/rftoy-hw
