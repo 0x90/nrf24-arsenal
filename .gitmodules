@@ -262,3 +262,6 @@
 [submodule "v202-receiver"]
 	path = v202-receiver
 	url = https://github.com/execuc/v202-receiver
+[submodule "nrf_analyze"]
+	path = nrf_analyze
+	url = https://github.com/chopengauer/nrf_analyze
