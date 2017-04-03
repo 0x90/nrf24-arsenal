@@ -265,3 +265,6 @@
 [submodule "nrf_analyze"]
 	path = nrf_analyze
 	url = https://github.com/chopengauer/nrf_analyze
+[submodule "nrf24-playset"]
+	path = nrf24-playset
+	url = https://github.com/SySS-Research/nrf24-playset/
