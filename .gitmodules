@@ -268,3 +268,6 @@
 [submodule "nrf24-playset"]
 	path = nrf24-playset
 	url = https://github.com/SySS-Research/nrf24-playset/
+[submodule "radio-hackbox"]
+	path = radio-hackbox
+	url = https://github.com/SySS-Research/radio-hackbox
